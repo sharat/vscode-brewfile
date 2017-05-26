@@ -3,7 +3,7 @@
     "displayName": "Brewfile",
     "description": "Syntax Highlighting for Brewfile",
     "version": "1.0.0",
-    "publisher": "sarath-c",
+    "publisher": "sharat",
     "engines": {
         "vscode": "^1.12.0"
     },
