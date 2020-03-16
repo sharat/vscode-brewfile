@@ -15,13 +15,18 @@
     ],
     "main": "./extension",
     "contributes": {
-        "languages": [{
-			"id": "ruby",
-			"aliases": ["Ruby", "ruby"],
-            "filenamePatterns": [
-                "Brewfile"
-            ]
-        }]
+        "languages": [
+            {
+                "id": "ruby",
+                "aliases": [
+                    "Ruby",
+                    "ruby"
+                ],
+                "filenamePatterns": [
+                    "Brewfile"
+                ]
+            }
+        ]
     },
     "scripts": {
         "postinstall": "node ./node_modules/vscode/bin/install",
