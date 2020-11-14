@@ -23,7 +23,8 @@
                     "ruby"
                 ],
                 "filenamePatterns": [
-                    "Brewfile"
+                    "Brewfile",
+                    "Caskfile"
                 ]
             }
         ]
